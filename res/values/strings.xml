@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Currency Converter</string>
+    <string name="menu_settings">Settings</string>
+    <string name="edit_message">Convert this Amount</string>
+    <string name="equal">=</string>
+    <string-array name="choices">
+        <item>USD</item>
+        <item>BTC</item>
+        <item>Doge</item>
+        <item>Euro</item>
+    </string-array>
+
+</resources>
